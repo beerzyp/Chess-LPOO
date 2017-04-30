@@ -58,6 +58,12 @@ Possible:Connect to a database to display the chess opening name at everymove
 
 
 #### Screen Mockup
+Horizontal
+![alt text](http://imageshack.com/a/img923/3229/oCZRhA.jpg)
+
+Vertical
+![alt text](http://imageshack.com/a/img922/5282/QSnfHi.jpg)
+
 
 
 
@@ -84,9 +90,25 @@ Possible:Connect to a database to display the chess opening name at everymove
 
 
 ### Unit Testing
+Test for the board(visual and game elements of board)
+BoardPanelSquareTest
+ChessGameBoardTest
 
+Test for the playing of the game itsef
+ChessGameEngineTest
+CHessGameLogTest
+ChessMainTest
+
+Tests for pieces possible moves, for a list of possible game boards
+BishopTest
+KingTest
+KnightTest
+PawnTest
+QueenTest
+RookTest
 
 
 
 
 ### Design Patterns
+Command (Undo/Redo) tbd
