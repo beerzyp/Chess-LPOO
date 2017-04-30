@@ -1,15 +1,15 @@
 # Chess-LPOO
 Chess Game Final Project LPOO
 
-# Class UML
+## Class UML
 ![alt text](http://imageshack.com/a/img923/3119/hEBVlC.png)
 
-# Package UML
+## Package UML
 ![alt text](http://imageshack.com/a/img922/1767/2LGjGW.png)
 
 
-# Gui State
+## Gui State
 ![alt text](http://imageshack.com/a/img924/3448/ilQZxr.png)
 
-# Game State
+## Game State
 ![alt text](http://imageshack.com/a/img923/2043/Za8JVd.png)
