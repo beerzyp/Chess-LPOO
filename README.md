@@ -1,7 +1,7 @@
 # Chess-LPOO
 Chess Game Final Project LPOO
 
-Class UML
+# Class UML
 ![alt text](http://imageshack.com/a/img923/3119/hEBVlC.png)
 
 Package UML
